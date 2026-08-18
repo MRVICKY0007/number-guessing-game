@@ -20,3 +20,4 @@ while True:
         print("congratulations!")
         print("You guessed the correct number.")
         print("Number of attempts:", attempts)
+        break
